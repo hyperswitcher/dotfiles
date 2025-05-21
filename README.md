@@ -2,4 +2,7 @@
 
 My dotfiles repository.
 
-This repository should be placed in `~/.dotfiles`. Otherwise, the above command shouldn't work.
+```bash
+git clone https://github.com/hyperswitcher/dotfiles.git ~/.dotfiles
+make
+```
