@@ -6,3 +6,4 @@ My dotfiles repository.
 git clone https://github.com/hyperswitcher/dotfiles.git ~/.dotfiles
 make
 ```
+
